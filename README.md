@@ -72,7 +72,7 @@ yarn start
 
 <!-- CONTRIBUTORS -->
 
-### Contributors
+## Contributors
 
 <p align="left">
 <a href="https://github.com/Vanshikagarg17"><img width="72px" src="https://avatars.githubusercontent.com/u/51471702?s=400&u=c3ae1a80c62a5552d41906f7acbc2cd0abf01c08&v=4"></a>
