@@ -4,6 +4,34 @@ const data = [
 
   {
     id: 0,
+    pic: "images/node-js.png",
+    time: "Sat, Feb 20, 6:00 PM",
+    title: "Step into the World of NodeJS",
+
+    link:
+      "https://dsc.community.dev/events/details/developer-student-clubs-banasthali-university-presents-step-into-the-world-of-nodejs-dsc-banasthali-vidyapith/#/",
+  },
+  {
+    id: 1,
+    pic: "images/machine-learning.jpg",
+    time: "Sun, Feb 21, 6:00 PM",
+    title: "Insights into Machine Learning",
+
+    link:
+      "https://dsc.community.dev/events/details/developer-student-clubs-banasthali-university-presents-insights-into-machine-learning-dsc-banasthali-vidyapith/#/",
+  },
+  {
+    id: 2,
+    pic: "images/api.jpg",
+    time: "Tue, Feb 23, 6:00 PM",
+    title: "Demystifying Google Maps API",
+
+    link:
+      "https://dsc.community.dev/events/details/developer-student-clubs-banasthali-university-presents-demystifying-google-maps-api-dsc-banasthali-vidyapith/#/",
+  },
+  
+  {
+    id: 0,
     pic: "../assets/images/womentech.jpeg",
     time: "Coming Soon!!",
     title: "Women In Tech",
